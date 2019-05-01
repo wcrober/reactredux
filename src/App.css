@@ -1,0 +1,21 @@
+.counter {
+  text-align:center;
+}
+body {
+  background-color: orange;
+}
+
+
+.div_container {
+  position: absolute;
+  width: 100%;
+}
+
+.div_container button {
+  background-color: #008CBA;
+  color:white;
+  
+  
+}
+
+
